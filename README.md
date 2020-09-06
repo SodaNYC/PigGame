@@ -2,7 +2,7 @@
 This is the project I made by following the Udemy course "The Complete JavaScript Course 2020: Build Real Projects!". I use this project to practice DOM manipulation in JavaScript. The HTML and CSS file were premade by the lecturer, but I modified HTML and CSS files for finish the challenge of this pig game in this course.
 
 
-GAME RULES:
+**GAME RULES**:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -11,7 +11,7 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-3 CHALLENGES
+**3 CHALLENGES**  
 Change the game to follow these rules:
 
 1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn. (Hint: Always save the previous dice roll in a separate variable)
