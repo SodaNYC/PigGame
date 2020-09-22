@@ -1,5 +1,5 @@
 # PigGame
-This is the project I made by following the Udemy course "The Complete JavaScript Course 2020: Build Real Projects!". I use this project to practice DOM manipulation in JavaScript. The HTML and CSS file were premade by the lecturer, but I modified HTML and CSS files for finish the challenge of this pig game in this course.
+This is the project I made by following the Udemy course "The Complete JavaScript Course 2020: Build Real Projects!". I use this project to practice DOM manipulation in JavaScript. The HTML and CSS part were premade by the lecturer, but I modified HTML and CSS files for finish the challenge of this pig game in this course.For JavaScript part, I coded them from scratch.
 
 
 **GAME RULES**:
